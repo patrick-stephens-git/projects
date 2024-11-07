@@ -1,8 +1,0 @@
-game is on 🔥🔥
-
-Spell out contractions
-The contractions package in python (which you need to install using !pip install contractions) allows us to spell out contractions. Spelling out contractions can add more information to your text data by letting more tokens to be created when tokenization is performed. For instance, in the code snippet below, the token “would” is not considered as a separate token when word tokenization based on white space is performed. Instead, it lives as part of the token “She’d”. Once we fix the contractions, however, we see that the word “would” lives as a standalone token when word tokenization is performed. This adds more tokens for the NLP model to make use of. This may help the model better understand what the text means and thereby improve accuracy for various NLP tasks.
-
-https://towardsdatascience.com/primer-to-cleaning-text-data-7e856d6e5791
-
-Thank you @Jay for your contribution to this project! #projectover
